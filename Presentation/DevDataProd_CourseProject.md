@@ -14,15 +14,12 @@ This presentation is being created as part of the peer assessment for the course
 - **shiny** to build data product application
 - **R-Presentation or slidify** to create data product related presentations
 
-Application Information
+Application Information and Functionality
 ========================================================
 type: sub-section
 To display the understanding of using **shiny** to build an application, a simple application called **NOAA Storm Database Explorer** has been developed and deployed at: 
 https://andrew-b.shinyapps.io/Coursera---Developing-Data-Products/
 
-Application Functionality
-========================================================
-type: sub-section
 The application allows the user to:
 - Select the inputs like- the range of years, types of events. 
 - Select the output to be displayed on the map, or as a graph, or as a table 
